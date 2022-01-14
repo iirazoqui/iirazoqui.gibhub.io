@@ -12,13 +12,17 @@ body {
  #menu a, button{
      font-size: 18px !important;
      font-weight: 600;
-    
+     position: sticky;
+
+      
+      
  }
 
  #menu a{
      color:#3f3f3f;
-     
+     position: sticky;
  }
+ 
 /*===================SLIDER DE IMAGENES==========================*/
 
 .carousel-inner {
